@@ -1,0 +1,6 @@
+print("Hello world")
+print("Enter your försztname")
+firstname = input()
+print("Enter your lásztname")
+lastname = input()
+print(f"Szia {firstname} {lastname}!")
