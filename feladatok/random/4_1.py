@@ -11,11 +11,9 @@ veletlen_szam = random.randint(1, 3)
 megadott_szam = int(input("Gondolj egy számra (1-3): "))
 
 if veletlen_szam == megadott_szam:
-    print("Eltaláltad, gratulálok!")
-
+    print("Eltaláltad, gratulálok!:D ")
 elif veletlen_szam > megadott_szam:
     print("Az úgy karcsú lesz!")
-
 else:
     print("Sok lesz, kicsit kevesebbet")
 
